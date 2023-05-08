@@ -1,0 +1,37 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.tv{
+   border-radius: 30px;
+   }
+
+.balcony{
+    border-radius: 30px;
+    }
+
+.hall{
+    border-radius: 30px;
+    }    
+
+.kitchen{
+    border-radius: 30px;
+    }
+
+.bedroom{
+    border-radius: 30px;
+    }
+
+    canvas{
+        box-shadow: 12px 12px 12px rgb(255, 255, 255);
+        border-radius: 11px;
+        margin: 50px;
+        
+    }
